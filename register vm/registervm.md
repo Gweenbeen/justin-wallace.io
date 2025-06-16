@@ -1,4 +1,4 @@
-**06/15/25: Register VM ** 
+**06/15/25: Register VM** 
 - A basic register based virtual machine that takes bytecode instructions and does them
 - Each bytecode is 16 bits, 4 bytes for the instruction, 4 for arg1 and 8 for arg2
 - There are 16 registers: 13 general purpose, 1 flag pointer (unused), 1 instruction pointer, 1 stack pointer
